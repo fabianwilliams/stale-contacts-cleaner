@@ -6,22 +6,28 @@
 
 **Clean Your Contacts, Secure Your iPhone** - Reduce phishing risks and spam calls with fast, private contact cleaning.
 
-🎉 **[Download on the App Store - FREE](https://apps.apple.com/app/stale-contacts-cleaner/id6758899651)** 🎉
+🎉 **[Download FREE on App Store](https://go.fabswill.com/contacts-download)** 🎉
 
 ✅ 100% FREE Forever | ✅ No Ads | ✅ No In-App Purchases | ✅ No Data Collection
+
+---
+
+## 🎬 Watch It In Action (60 Second Demo)
+
+<p align="center">
+  <a href="https://go.fabswill.com/contacts-demo">
+    <img src="https://img.youtube.com/vi/L4inbIU9ixo/maxresdefault.jpg" alt="Watch Demo on YouTube" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>👉 <a href="https://go.fabswill.com/contacts-demo">Watch on YouTube Shorts</a></strong> - See how to clean 100+ contacts in under 2 minutes!
+</p>
 
 <p align="center">
   <img src="screenshots/app-store-listing.png" alt="App Store Listing" width="300"/>
   <img src="screenshots/app-main-screen.png" alt="Main App Screen" width="300"/>
 </p>
-
----
-
-## 🎬 See It In Action
-
-**Watch the demo video** on Fabian's YouTube channel: [https://go.fabswill.com](https://go.fabswill.com)
-
-*Coming soon: Full walkthrough showing how to clean 1,000 contacts in 10 minutes!*
 
 ---
 
@@ -234,8 +240,17 @@ After years of accumulating contacts, I realized I needed a simple, trustworthy 
 
 ---
 
-**Have messy contacts? Reduce your phishing risk today!** 🚀
+## 🔗 Quick Links
 
-[Download FREE on the App Store](https://apps.apple.com/app/stale-contacts-cleaner/id6758899651)
+| Link | Description |
+|------|-------------|
+| 📱 **[Download App](https://go.fabswill.com/contacts-download)** | Install from App Store (FREE) |
+| 🎥 **[Watch Demo](https://go.fabswill.com/contacts-demo)** | 60-second YouTube Short |
+| 📖 **[Read Story](https://go.fabswill.com/contacts-story)** | How it was built |
+| 🌐 **[YouTube Channel](https://go.fabswill.com)** | More tech content |
+
+---
+
+**Have messy contacts? Reduce your phishing risk today!** 🚀
 
 **Launched February 14, 2026** - Built with ❤️ by [Fabian Williams](https://github.com/fabianwilliams)
