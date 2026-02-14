@@ -1,10 +1,27 @@
 # Stale Contacts Cleaner
 
+<p align="center">
+  <img src="screenshots/app-icon.png" alt="Stale Contacts Cleaner App Icon" width="200"/>
+</p>
+
 **Clean Your Contacts, Secure Your iPhone** - Reduce phishing risks and spam calls with fast, private contact cleaning.
 
 🎉 **[Download on the App Store - FREE](https://apps.apple.com/app/stale-contacts-cleaner/id6758899651)** 🎉
 
 ✅ 100% FREE Forever | ✅ No Ads | ✅ No In-App Purchases | ✅ No Data Collection
+
+<p align="center">
+  <img src="screenshots/app-store-listing.png" alt="App Store Listing" width="300"/>
+  <img src="screenshots/app-main-screen.png" alt="Main App Screen" width="300"/>
+</p>
+
+---
+
+## 🎬 See It In Action
+
+**Watch the demo video** on Fabian's YouTube channel: [https://go.fabswill.com](https://go.fabswill.com)
+
+*Coming soon: Full walkthrough showing how to clean 1,000 contacts in 10 minutes!*
 
 ---
 
@@ -189,9 +206,24 @@ Stale Contacts Cleaner is proprietary software. This repository is for community
 
 ---
 
+## 🚀 Launch Milestone
+
+**Launched:** February 14, 2026 (Valentine's Day! ❤️)
+**Timeline:** Idea → App Store in 7 days
+
+<p align="center">
+  <img src="screenshots/app-store-connect-live.png" alt="App Store Connect - Live" width="300"/>
+</p>
+
+Built in one week using AI-augmented development with Claude Code. Read the full story in [THE-STORY-24HR-APP-TO-APPSTORE.md](THE-STORY-24HR-APP-TO-APPSTORE.md).
+
+---
+
 ## 🙏 About
 
 Built with ❤️ by [Fabian Williams](https://github.com/fabianwilliams) at [Adotob LLC](https://adotob.com)
+
+**YouTube Channel:** [https://go.fabswill.com](https://go.fabswill.com) - Tech tutorials, app demos, and development journey
 
 **Why build this?**
 After years of accumulating contacts, I realized I needed a simple, trustworthy way to clean them up. Every app I found either required cloud sync, collected data, or had confusing interfaces. So I built what I wanted to use myself - a fast, private, simple contacts cleaner.
