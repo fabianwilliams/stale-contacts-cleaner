@@ -13,3 +13,8 @@
 # Temporary files
 *.tmp
 *.log
+
+# Demo/internal files (keep in private repo only)
+demo-contacts*.vcf
+generate*.py
+IMPORT-DEMO-CONTACTS.md
