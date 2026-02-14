@@ -11,7 +11,7 @@
 - **Tech:** Swift 6.0, SwiftUI, iOS 18.0+
 - **Features:** Swipe to delete, undo, alphabetical jump, batch deletion
 - **Privacy:** Zero data collection, all on-device
-- **Status:** Submitted Feb 7, 2026 | Awaiting Apple review
+- **Status:** ✅ LIVE on App Store (Launched Feb 14, 2026)
 
 ---
 
@@ -114,4 +114,6 @@
 
 ---
 
-*Submitted: February 7, 2026 at 8:56 PM | Status: Waiting for Review*
+*Submitted: February 7, 2026 at 8:56 PM*
+*Approved & Launched: February 14, 2026 ✅*
+*Timeline: Submission → Production in 7 days 🚀*

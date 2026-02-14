@@ -1,30 +1,43 @@
 # Stale Contacts Cleaner
 
-**Clean up your iPhone contacts in minutes** - A privacy-first iOS app with an intuitive swipe interface.
+**Clean Your Contacts, Secure Your iPhone** - Reduce phishing risks and spam calls with fast, private contact cleaning.
 
-**[Download on the App Store](#)** (Coming Soon!)
+🎉 **[Download on the App Store - FREE](https://apps.apple.com/app/stale-contacts-cleaner/id6758899651)** 🎉
+
+✅ 100% FREE Forever | ✅ No Ads | ✅ No In-App Purchases | ✅ No Data Collection
 
 ---
 
 ## What is Stale Contacts Cleaner?
 
-Your contact list has grown messy over the years. Old contacts you don't remember, duplicates, people you no longer talk to. **Stale Contacts Cleaner** makes it easy to clean up - fast, simple, and completely private.
+**Stale contacts are security risks.** Every old contact in your phone is a potential phishing vector. When someone's account gets hacked, scammers send "urgent" messages to their contacts. If that person is in YOUR contacts, you'll trust it because the name is familiar.
+
+**Stale Contacts Cleaner** helps you reduce your attack surface by making it fast and easy to clean old contacts - in minutes, not hours.
+
+### 🔒 Why This Matters (Security)
+
+**Phishing Risk**: That old coworker from 2019? If their account gets hacked, you'd trust a message from them. Clean your contacts = reduce phishing risk.
+
+**Call Filtering**: iPhone's "Silence Unknown Callers" only works when you have a clean contact list. 1,000 stale contacts? Spam still gets through. Clean to 200 trusted contacts? Feature actually works.
 
 ### 🌟 Why Stale Contacts Cleaner?
 
+- 🛡️ **Reduce Phishing Risk** - Fewer stale contacts = smaller attack surface
 - 📱 **Swipe Interface** - Keep right, delete left - just like your favorite apps
 - 🔐 **100% Private** - All processing on your device, zero data collection
 - ⚡ **Fast & Efficient** - Review hundreds of contacts in minutes
 - 🔤 **Alphabetical Jump** - Skip to any letter instantly
 - ↩️ **Undo Anytime** - Made a mistake? Undo immediately
-- 🎯 **Zero Friction** - No account, no login, no tracking
+- 🆓 **100% FREE Forever** - No ads, no in-app purchases, no hidden costs
 
 ### ✨ Perfect For
 
-- Anyone with years of accumulated contacts
-- People who've imported contacts from multiple sources
-- Privacy-conscious users who don't trust cloud-based cleaners
-- Anyone who wants a cleaner, more organized address book
+- **Security-conscious users** who want to reduce phishing risk
+- **iPhone users** who use "Silence Unknown Callers" (make it actually work!)
+- **Anyone with 500+ contacts** who hasn't cleaned in years
+- **Privacy-conscious users** who don't trust cloud-based cleaners
+- **Parents protecting families** from social engineering scams
+- **Anyone** who wants a cleaner, more organized address book
 
 ---
 
@@ -91,14 +104,19 @@ Unlike web-based contact cleaners or apps that sync to the cloud, **Stale Contac
 
 ---
 
-## 🎯 Coming Soon
+## 🎯 Future Features (Roadmap)
 
-- **Smart Suggestions** - AI-powered suggestions for likely stale contacts
+The app is **live and fully functional** for manual contact cleaning. Future enhancements we're considering:
+
+- **Smart Suggestions** - AI-powered suggestions for likely stale contacts (may require optional Pro subscription due to token costs)
 - **Merge Duplicates** - Identify and merge duplicate contacts
 - **Export Before Delete** - Create backup before deletion
 - **Contact Statistics** - Insights about your contact list
+- **Contact Keep-Alive** - Automated "checking in" with contacts (if iOS privacy permits)
 
 Want a feature? [Request it here](https://github.com/fabianwilliams/stale-contacts-cleaner/issues/new?template=feature_request.md)!
+
+**Note**: Core cleaning functionality will always be FREE. Future AI-powered features may offer optional Pro subscriptions to cover token costs.
 
 ---
 
@@ -120,7 +138,7 @@ Email: **support@adotob.com**
 ## ❓ Frequently Asked Questions
 
 ### Is this really free?
-Yes! Stale Contacts Cleaner is completely free with no in-app purchases, ads, or hidden costs.
+**Yes, 100% FREE forever!** Stale Contacts Cleaner has no in-app purchases, no ads, no subscriptions, and no hidden costs. We built this to solve a real problem we had ourselves. Future "Pro" features (if any) would be optional add-ons - the core cleaning functionality will always be free.
 
 ### Does it work offline?
 Yes! The app works completely offline since everything happens on your device.
@@ -139,6 +157,12 @@ Absolutely. Your contacts never leave your device. We don't have servers to send
 
 ### Do you sell my data?
 No. We don't collect any data, so there's nothing to sell.
+
+### How do stale contacts increase phishing risk?
+When someone's account gets hacked (email, messaging app, phone), scammers send phishing messages to their contacts. If that person is in YOUR contacts, you're more likely to trust the scam because the name is familiar. Every stale contact is a potential attack vector. Security-conscious users practice digital hygiene - including contact list hygiene.
+
+### How does this help with spam calls?
+iPhone's "Silence Unknown Callers" feature blocks calls from numbers not in your contacts. Sounds great, right? But if you have 1,000 stale contacts (including that Uber driver from 2019), spam calls still get through. Clean down to 200 trusted contacts, and the feature actually works as intended.
 
 ---
 
@@ -178,6 +202,8 @@ After years of accumulating contacts, I realized I needed a simple, trustworthy 
 
 ---
 
-**Have messy contacts? Give Stale Contacts Cleaner a try!** 🚀
+**Have messy contacts? Reduce your phishing risk today!** 🚀
 
-[Download on the App Store](#) (Coming Soon!)
+[Download FREE on the App Store](https://apps.apple.com/app/stale-contacts-cleaner/id6758899651)
+
+**Launched February 14, 2026** - Built with ❤️ by [Fabian Williams](https://github.com/fabianwilliams)
