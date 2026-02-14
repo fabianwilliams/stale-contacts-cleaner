@@ -1,7 +1,7 @@
 # Stale Contacts Cleaner
 
 <p align="center">
-  <img src="screenshots/app-icon.png" alt="Stale Contacts Cleaner App Icon" width="200"/>
+  <img src="screenshots/contacts-permission-screen.png" alt="Stale Contacts Cleaner Permission Screen" width="300"/>
 </p>
 
 **Clean Your Contacts, Secure Your iPhone** - Reduce phishing risks and spam calls with fast, private contact cleaning.
