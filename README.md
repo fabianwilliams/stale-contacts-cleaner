@@ -15,13 +15,14 @@
 ## 🎬 Watch It In Action (60 Second Demo)
 
 <p align="center">
-  <a href="https://go.fabswill.com/contacts-demo">
-    <img src="https://img.youtube.com/vi/L4inbIU9ixo/maxresdefault.jpg" alt="Watch Demo on YouTube" width="600"/>
-  </a>
+  <video width="600" controls>
+    <source src="https://adotobmedia.blob.core.windows.net/videos/contacts-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <p align="center">
-  <strong>👉 <a href="https://go.fabswill.com/contacts-demo">Watch on YouTube Shorts</a></strong> - See how to clean 100+ contacts in under 2 minutes!
+  <strong>👉 <a href="https://go.fabswill.com/contacts-demo">Watch Demo Video</a></strong> - See how to clean 100+ contacts in under 2 minutes!
 </p>
 
 <p align="center">
@@ -245,7 +246,7 @@ After years of accumulating contacts, I realized I needed a simple, trustworthy 
 | Link | Description |
 |------|-------------|
 | 📱 **[Download App](https://go.fabswill.com/contacts-download)** | Install from App Store (FREE) |
-| 🎥 **[Watch Demo](https://go.fabswill.com/contacts-demo)** | 60-second YouTube Short |
+| 🎥 **[Watch Demo](https://go.fabswill.com/contacts-demo)** | 60-second video demo |
 | 📖 **[Read Story](https://go.fabswill.com/contacts-story)** | How it was built |
 | 🌐 **[YouTube Channel](https://go.fabswill.com)** | More tech content |
 
