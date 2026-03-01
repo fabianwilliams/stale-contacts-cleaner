@@ -33,6 +33,7 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           allowed_non_write_users: "*"
+          allowed_tools: "Bash(gh issue *),Bash(gh label *),Bash(gh search *),Read,Glob,Grep"
           prompt: |
             You are the issue triage assistant for the Stale Contacts Cleaner community repository.
             Stale Contacts Cleaner is an iOS app that helps users clean up old, outdated contacts
